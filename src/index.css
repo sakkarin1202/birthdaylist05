@@ -1,8 +1,8 @@
 /* Variables */
 
 :root{
-  --clr-sand:#D6CC99;
-  --clr-sand:#D6CC99;
+  --clr-sand:#cf518c;
+  --clr-sand2:#4ab0cf;
   --spacing: 0.1rem;
   --clr-grey-1:hsl(209,61%,16%);
   --clr-grey-2:hsl(210,22%,49%);
@@ -116,7 +116,7 @@ main {
   display: block;
   width: 100%;
   border-color: transparent;
-  background: var(--clr-sand);
+  background: var(--clr-sand2);
   margin: 2rem auto 0 auto;
   text-transform: capitalize;
   font-size: 1.2rem;
